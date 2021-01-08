@@ -113,7 +113,51 @@ li {
     height:200px;
     width:300px;	
 }
+#nev
+{
+    height:200px;
+    width:900px;
+}
+
+#second-row
+{
+    height:250px;
+    width:1200px;
+}
+#szak-leiras1
+{
+    height:250px;
+    width:600px;
+}
+#szak-ikon1
+{
+    height:250px;
+    width:600px;
 	
+}
+#elerhetőség
+{
+	height:250px;
+    width:400px;
+	text-align:center;
+}
+#kep2
+{
+	 height:250px;
+    width:400px;	
+}
+#felveteli
+{
+	height:250px;
+    width:400px;
+	align-items: center;
+}
+#szak-leiras2
+{
+    height:250px;
+    width:600px;
+	text-align:right;
+}	
 
 
 .right
