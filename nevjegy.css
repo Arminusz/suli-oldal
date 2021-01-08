@@ -52,3 +52,71 @@ body {
 }
 
 
+.profile-kep {
+	padding-top: 40px;
+	padding-left: 40px;
+}
+.szak-ikon {
+	padding-top: 65px;
+	text-align:center;
+}
+.nev {
+	padding-top: 60px;
+	font-family: 'Verdana';
+	text-align:center;
+	font-size: 20px;
+    color: black;
+    text-shadow: white 1px 2px 0;
+}
+.szakleiras {
+	padding-top: 60px;
+	padding-left: 30px;
+	font-family: 'Arial';
+	text-align:left;
+	font-size: 14px;
+    color: black;
+}
+.leiras {
+	border-top: 1px solid hsla(0, 0%, 30%, .8);
+}
+.magamrol {
+	padding-top: 30px;
+	padding-left:20px;
+	font-family: ”Verdana”, Sans-serif;
+	text-align: justify;
+}
+img {
+  width: 120px;
+  height: 120px;
+  border-radius: 2%;
+  padding: 1px;
+  filter: grayscale(0%);
+  transition: all 0.3s ease-in-out;
+  border: 1px solid hsla(0, 0%, 30%, .8);
+  box-shadow: hsla(0, 0%, 0%, .8) 2px 2px 2px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  display: inline;
+}
+#first-row
+{
+    height:200px;
+    width:1200px;
+}
+#kep1
+{
+    height:200px;
+    width:300px;	
+}
+	
+
+
+.right
+{
+    float: right;
+}
